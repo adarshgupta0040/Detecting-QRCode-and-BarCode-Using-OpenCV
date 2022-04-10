@@ -1,0 +1,1 @@
+# Detecting-QRCode-and-BarCode-Using-OpenCV
